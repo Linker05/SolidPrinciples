@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciples", "SolidPrinciples\SolidPrinciples.csproj", "{8C36A64B-AC25-44E4-8C6F-97D192C41347}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPrinciplesConsole", "SolidPrinciplesConsole\SolidPrinciplesConsole.csproj", "{48974643-2117-45C0-A84E-302AC61D29BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C36A64B-AC25-44E4-8C6F-97D192C41347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C36A64B-AC25-44E4-8C6F-97D192C41347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C36A64B-AC25-44E4-8C6F-97D192C41347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C36A64B-AC25-44E4-8C6F-97D192C41347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48974643-2117-45C0-A84E-302AC61D29BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48974643-2117-45C0-A84E-302AC61D29BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48974643-2117-45C0-A84E-302AC61D29BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48974643-2117-45C0-A84E-302AC61D29BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E33B75-2885-4454-A300-74B3BDC648EF}
+	EndGlobalSection
+EndGlobal
